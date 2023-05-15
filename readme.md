@@ -17,7 +17,7 @@ To get started with the project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/krzysztofkluczynski/pharmacy_api.git
    
 2. Open a terminal or command prompt and navigate to the project directory.
 3. Run the application using the following command:

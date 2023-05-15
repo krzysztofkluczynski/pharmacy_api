@@ -1,0 +1,5 @@
+com\example\doz\Repository\PriceListRepository.class
+com\example\doz\DozApplication.class
+com\example\doz\Controller\PriceListController.class
+com\example\doz\Model\PriceList.class
+com\example\doz\Service\PriceListService.class
