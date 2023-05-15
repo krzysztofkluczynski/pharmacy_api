@@ -49,5 +49,5 @@ To add a new price list, make a POST request to the /pricelists endpoint with th
 To retrieve all price lists, make a GET request to the /pricelists endpoint. The response will contain a list of all price lists in the database.
 
 Api testowane za pomocą POSTMANa:
-![img.png](img.png)
-![img_2.png](img_2.png)
+![img.png](src/main/resources/img.png)
+![img_2.png](src/main/resources/img_2.png)
